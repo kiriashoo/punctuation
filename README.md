@@ -7,5 +7,7 @@
 Take a set of text and output a picture of the text
 
 Command-line use is python punctation.py FILENAME 
+
 (the actual file is FILENAME.txt - but it should be given without extension)
+
 Outputs FILENAME.png
